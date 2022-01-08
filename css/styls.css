@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+
+
+.navbar{
+    width: 90%;
+    margin: auto;
+    padding: 0pt 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0  15px;
+    position: relative;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: rgb(148, 148, 148);
+    text-transform: uppercase;
+}
+.navbar ul li a:hover{
+    color:rgb(129, 236, 201) ;
+}
+.midll{
+    align-items: center;
+    padding-left: 50%;
+margin-top: 5%;
+}
+.titre{
+    align-items: center;
+padding-left: 26%;
+color:rgb(84, 250, 195) ;
+font-family: 'M PLUS 1 Code', sans-serif;
+font-family: 'Odibee Sans', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.text{
+    display: flex;
+align-items: center;
+    padding: 2%;
+ margin-left: 5%;
+ align-content: space-around;
+ font-family: 'M PLUS 1 Code', sans-serif;
+ font-family: 'Odibee Sans', cursive;
+ font-family: 'Poppins', sans-serif;
+ font-family: 'Roboto', sans-serif;
+justify-content: space-evenly;
+
+ color: rgb(119, 117, 117);
+}
+.box{
+    display: flex;
+    justify-content:space-evenly;
+}
+.boxx{
+    border-style: solid;
+    border-color: rgb(9, 252, 191);
+    padding: 3%;
+    background-color: rgb(9, 252, 191);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+.boxxx{
+    border-style: solid;
+    border-color:  rgb(37, 131, 255);
+    padding: 3%;
+    background-color: rgb(37, 131, 255);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+.boxxxx{
+    border-style: solid;
+    border-color:  rgb(247, 125, 220);
+    padding: 3%;
+    background-color: rgb(247, 125, 220);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+
+  
